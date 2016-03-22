@@ -10,7 +10,7 @@ with [antigen](https://github.com/zsh-users/antigen), add in your `~/.zshrc`:
 
 ## Features
 
-| trigger  | action                  |
-| -------- | ----------------------- |
-| c<Enter> | Lists all ssh hostnames |
+| trigger   | action                  |
+| --------- | ----------------------- |
+| c\<Enter> | Lists all ssh hostnames |
 
