@@ -4,6 +4,6 @@ zsh plugin for the [peco](https://github.com/peco/peco) tool
 
 ## Install
 
-with antigen, add in your `~/.zshrc`:
+with [antigen](https://github.com/zsh-users/antigen), add in your `~/.zshrc`:
 
     antigen bundle Fandekasp/peco_zsh
