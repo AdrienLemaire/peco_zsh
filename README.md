@@ -7,3 +7,10 @@ zsh plugin for the [peco](https://github.com/peco/peco) tool
 with [antigen](https://github.com/zsh-users/antigen), add in your `~/.zshrc`:
 
     antigen bundle Fandekasp/peco_zsh
+
+## Features
+
+| trigger  | action                  |
+| -------- | ----------------------- |
+| c<Enter> | Lists all ssh hostnames |
+
