@@ -12,5 +12,5 @@ with [antigen](https://github.com/zsh-users/antigen), add in your `~/.zshrc`:
 
 | trigger   | action                  |
 | --------- | ----------------------- |
-| c\<Enter> | Lists all ssh hostnames |
+| s\<Enter> | Lists all ssh hostnames |
 
