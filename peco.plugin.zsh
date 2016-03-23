@@ -17,4 +17,5 @@ function peco-search() {
   zle clear-screen
   zle beginning-of-line
 }
+zle -N peco-search
 bindkey "^r" peco-search
