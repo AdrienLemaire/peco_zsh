@@ -13,4 +13,5 @@ with [antigen](https://github.com/zsh-users/antigen), add in your `~/.zshrc`:
 | trigger   | action                  |
 | --------- | ----------------------- |
 | s\<Enter> | Lists all ssh hostnames |
+| \<Ctrl>r  | backward search         |
 

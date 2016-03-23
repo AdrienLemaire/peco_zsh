@@ -10,3 +10,11 @@ function s() {
     }
   ' ~/.ssh/config | sort | peco)
 }
+
+# replace zsh backward search with peco on ctrl-r
+function peco-search() {
+  history | peco
+  zle clear-screen
+  zle beginning-of-line
+}
+bindkey "^r" peco-search
