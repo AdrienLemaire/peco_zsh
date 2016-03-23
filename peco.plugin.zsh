@@ -18,4 +18,4 @@ function peco-search() {
   zle beginning-of-line
 }
 zle -N peco-search
-bindkey "^r" peco-search
+#bindkey "^r" peco-search
